@@ -15,4 +15,4 @@ function minimum(...inputs){
    
     output.innerHTML=`${min} is the minimum among ${inputs}`
 }
-inputs.minimum()
+minimum()
